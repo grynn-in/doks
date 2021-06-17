@@ -48,6 +48,6 @@ We have a easy setup guide here. It lists all permissions required to get ERPNex
 
 ### TLDR
 
-* ERPNext - Shopify is a one-directonal connector. All data flow from Shopify to ERPNext
+* ERPNext - Shopify is a one-directional connector. All data flow from Shopify to ERPNext
 * Items / Orders / Customers are created in ERPNext if it is not available
-* You can setup a default customer if you dont want to create a lot of customers in ERPNext
+* You can setup a default customer if you don't want to create a lot of customers in ERPNext
