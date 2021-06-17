@@ -1,10 +1,9 @@
 +++
 date = 2021-05-31T22:01:00Z
-description = "ERPNext is a fantastic headless CMS for E-commerce applications. "
-draft = true
+description = "Want to make your customer's life easy? Create a React / Vue / Node App for ordering items from ERPNext. "
 images = []
 lastmod = ""
-lead = "ERPNext is a fantastic headless CMS for E-commerce applications. "
+lead = "Want to make your customer's life easy? Create a React / Vue / Node App for ordering items from ERPNext. "
 title = "App for Ordering Systems"
 
 +++
