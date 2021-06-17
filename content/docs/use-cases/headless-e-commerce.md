@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "use-cases"
+    parent: "setup-guides"
 weight: 130
 toc: true
 ---

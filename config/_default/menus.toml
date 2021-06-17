@@ -1,8 +1,8 @@
 [[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  name = "Setup Guides"
+  weight = 60
+  identifier = "setup-guides"
+  url = "/docs/setup-guides/"
 
 [[docs]]
   name = "Help"
@@ -15,6 +15,13 @@
   weight = 60
   identifier = "use-cases"
   url = "/docs/use-cases/"
+
+[[docs]]
+  name = "Prologue"
+  weight = 10
+  identifier = "prologue"
+  url = "/docs/prologue/"
+
 
 [[main]]
   name = "Docs"
