@@ -1,10 +1,9 @@
 ---
-title: "Contributors"
-description: "The Doks contributors."
-date: 2020-10-06T08:50:29+00:00
-lastmod: 2020-10-06T08:50:29+00:00
-draft: false
+title: Contributors
+description: The ERPNext GraphQL contributors
+date: 2020-10-06T08:50:29.000+00:00
+lastmod: 2020-10-06T08:50:29.000+00:00
 images: []
----
 
-The Doks contributors.
+---
+The ERPNext GraphQL contributors
