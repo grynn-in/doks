@@ -12,8 +12,7 @@ draft: true
 ## Website visitors
 
 * No personal information is collected.
-* No information is stored in the browser.
-* No information is shared with, sent to or sold to third-parties.
+* A cookie might be stored in the browser.
 * No information is shared with advertising companies.
 * No information is mined and harvested for personal and behavioral trends.
 * No information is monetized.
