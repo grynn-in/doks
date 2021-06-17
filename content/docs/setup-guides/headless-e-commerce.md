@@ -1,5 +1,5 @@
 ---
-title: "A setup guide for Wordpress Connector (integration) with ERPNext"
+title: "ERPNext - Wordpress Connector"
 description: "Use this setup guide to get Wordpress and ERPNext to work together."
 lead: "There are so many things that can go wrong here, we thought we should write a setup guide..."
 date: 2020-10-13T15:21:01+02:00
