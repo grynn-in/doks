@@ -21,4 +21,5 @@ fields:
   name: images
   label: images
 pages:
+- content/docs/Use Cases/app-for-ordering-systems.md
 - content/docs/Use Cases/headless-e-commerce.md
