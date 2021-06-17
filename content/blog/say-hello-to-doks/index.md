@@ -1,11 +1,14 @@
 ---
-title: "Say hello to Doks 👋"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
-draft: false
-weight: 50
-images: ["say-hello-to-doks.png"]
-contributors: ["Henk Verlinde"]
+title: "Welcome to our first ERPNext GraphQL  Blog \U0001F44B"
+description: Mainly to say hello!
+lead: 'Introducing the ERPNext GraphQL Blog. Here you will see tips, tricks and success
+  stories from our experience and usage of ERPNext GraphQL. '
+date: 2020-11-04T09:19:42.000+01:00
+lastmod: 2020-11-04T09:19:42.000+01:00
+weight: "50"
+images:
+- say-hello-to-doks.png
+contributors:
+- Henk Verlinde
+
 ---
