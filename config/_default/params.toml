@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "GraphQL for ERPNext"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "GraphQL for ERPNext"
+description = "ENGraphQL aims to tie up 100s of ERPNext Endpoints (DocTypes) into a single endpoint using this NodeJS GraphQL Server."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
