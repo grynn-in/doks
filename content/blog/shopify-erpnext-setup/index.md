@@ -25,7 +25,7 @@ ERPNext - Shopify Connector is a confusing feature in ERPNext and could be a bit
 
 ### Tested on
 
-* Frappecloud / ERPNext Managed hosting
+* Frappe cloud / ERPNext Managed hosting
 * Version 13
 
 ### Main Features
