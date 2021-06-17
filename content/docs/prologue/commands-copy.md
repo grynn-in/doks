@@ -1,7 +1,6 @@
 +++
 date = 2020-10-13T13:21:01Z
 description = "Doks comes with commands for common tasks."
-draft = true
 images = []
 lastmod = 2020-10-13T13:21:01Z
 lead = "Doks comes with commands for common tasks."
@@ -10,106 +9,14 @@ toc = true
 weight = 130
 
 +++
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
+# Title
 
-## create
+## H2
 
-Create new content for your site:
+### H3 below h2
 
-{{< btn-copy text="npm run create" >}}
+# H2 second
 
-```bash
-npm run create [path] [flags]
-```
+### H3
 
-See also the Hugo docs: [hugo new](https://gohugo.io/commands/hugo_new/).
-
-## lint
-
-Check scripts, styles, and markdown for errors:
-
-{{< btn-copy text="npm run lint" >}}
-
-```bash
-npm run lint
-```
-
-### scripts
-
-Check scripts for errors:
-
-{{< btn-copy text="npm run lint:scripts" >}}
-
-```bash
-npm run lint:scripts [-- --fix]
-```
-
-### styles
-
-Check styles for errors:
-
-{{< btn-copy text="npm run lint:styles" >}}
-
-```bash
-npm run lint:styles [-- --fix]
-```
-
-### markdown
-
-Check markdown for errors:
-
-{{< btn-copy text="npm run lint:markdown" >}}
-
-```bash
-npm run lint:markdown [-- --fix]
-```
-
-## clean
-
-Delete temporary directories:
-
-{{< btn-copy text="npm run clean" >}}
-
-```bash
-npm run clean
-```
-
-## start
-
-Start local development server:
-
-{{< btn-copy text="npm run start" >}}
-
-```bash
-npm run start
-```
-
-## build
-
-Build production website:
-
-{{< btn-copy text="npm run build" >}}
-
-```bash
-npm run build
-```
-
-### functions
-
-Build Lambda functions:
-
-{{< btn-copy text="npm run build:functions" >}}
-
-```bash
-npm run build:functions
-```
-
-### preview
-
-Build production website including draft and future content:
-
-{{< btn-copy text="npm run build:preview" >}}
-
-```bash
-npm run build:preview
-```
+### H4
