@@ -1,5 +1,5 @@
 ---
-title: The best guide to ERPNext - Shopify Connector
+title: A Reliable Guide to ERPNext - Shopify Connector
 description: If you want to know the best features of Shopify and ERPNext connector
   this is for you.
 lead: You have so many questions on the Shopify connector in ERPNext. This will clarify
